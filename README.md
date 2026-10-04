@@ -50,6 +50,8 @@ DSA-3rd/
 ├── routing.cpp / .h
 ├── main.cpp
 └── README.md
+
+
 How to Run
 
 Make sure g++ is installed and available in your terminal.
@@ -61,6 +63,3 @@ g++ *.cpp -o main.exe
 Run the program:
 
 .\main.exe
-Team
-
-Developed by Sana Shahzad, Muhammad Ali Rana, Ayesha Qayyum, and Usman Shahid for CSC-261 Data Structures & Algorithm at UET Lahore – New Campus.
